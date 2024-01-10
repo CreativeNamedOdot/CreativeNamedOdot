@@ -20,13 +20,13 @@
 <div align="center">
   <img src="1.jpg" width="600" height="300"/>
 </div>
-I am a Full Stack Developer who enjoys working with Linux.
+I am a full stack developer who enjoys creating innovative solutions.
 
 - :telescope: I’m working on startup called: Robotic Insomnia Co while learning Linux.
 
 - :seedling: Linux Systems Administration / Engineer is the goal I am currently working on.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I enjoy DIY projects, workouts and listening to great music.
 
 <!--- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
