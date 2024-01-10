@@ -7,11 +7,11 @@
 <div align="center">
   <img src="1.jpg" width="600" height="300"/>
 </div>
-I am a full stack developer who enjoys creating innovative solutions.
+I am a developer who started a new github for cybersec focused projects.
 
 - :telescope: I’m working on startup called: Robotic Insomnia Co while learning Linux.
 
-- :seedling: Linux Systems Administration / Engineer is the goal I am currently working on.
+- :seedling: I am working towards gaining a role in the filed of Cyber Security.
 
 - :zap: In my free time, I enjoy DIY projects, workouts and listening to great music.
 
