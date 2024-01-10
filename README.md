@@ -18,7 +18,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="#" width="600" height="300"/>
+  <img src="./1.jpeg" width="600" height="300"/>
 </div>
 I am a Full Stack Developer who enjoys working with Linux.
 
